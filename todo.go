@@ -78,5 +78,4 @@ func (todos *Todos) edit(index int, title string); error{
 
 	return nil
 }
-
 func (todos *Todos) print()
